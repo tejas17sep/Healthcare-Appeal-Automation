@@ -1,0 +1,15 @@
+1. Go to the project:
+
+cd "/Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation"
+
+2. Activate the environment:
+
+source .venv/bin/activate
+
+You should see:
+
+((.venv)) ... Healthcare_Appeal_Automation %
+
+3. Run the script:
+
+python src/pdf_appeal_generator.py

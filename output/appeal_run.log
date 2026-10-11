@@ -1,0 +1,2770 @@
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+
+========================================
+Excel Columns
+========================================
+['Claim_ID', 'Account_Number', 'MRN', 'Insurance', 'Appeal_Type', 'Member_ID', 'Group_Number', 'Patient_First_Name', 'Patient_Last_Name', 'DOB', 'Gender', 'DOS_From', 'DOS_To', 'Provider_Name', 'Provider_Group', 'NPI', 'TIN', 'Facility_Name', 'Provider_Address', 'Provider_City', 'Provider_State', 'Provider_ZIP', 'Contact_Name', 'Contact_Title', 'Contact_Email', 'Contact_Phone', 'Contact_Fax', 'Claim_Number', 'Authorization_Number', 'Reference_Number', 'CPT_Code', 'HCPCS', 'ICD10', 'Billed_Amount', 'Allowed_Amount', 'Paid_Amount', 'Expected_Amount', 'Denial_Code', 'Denial_Category', 'Denial_Reason', 'Appeal_Level', 'Appeal_Reason', 'Expected_Outcome', 'Medical_Record_Folder', 'EOB_File', 'Appeal_Status', 'Generated_Date', 'PDF_Path', 'Appeal_Letter_Path']
+
+========================================
+Total appeals to process: 100
+Processing started...
+========================================
+
+
+========================================
+Generating Aetna PDF 1/100
+Claim Number: 500002
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100002
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500002
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500002.pdf
+
+----------------------------------------
+Progress: 1/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 3 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 2/100
+Claim Number: 500003
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100003
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500003
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500003.pdf
+
+----------------------------------------
+Progress: 2/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 3 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 3/100
+Claim Number: 500004
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100004
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500004
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500004.pdf
+
+----------------------------------------
+Progress: 3/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 3 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 4/100
+Claim Number: 500005
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100005
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500005
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500005.pdf
+
+----------------------------------------
+Progress: 4/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 3 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 5/100
+Claim Number: 500006
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100006
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500006
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500006.pdf
+
+----------------------------------------
+Progress: 5/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 3 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 6/100
+Claim Number: 500007
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100007
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500007
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500007.pdf
+
+----------------------------------------
+Progress: 6/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 3 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 7/100
+Claim Number: 500008
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100008
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500008
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500008.pdf
+
+----------------------------------------
+Progress: 7/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 3 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 8/100
+Claim Number: 500009
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100009
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500009
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500009.pdf
+
+----------------------------------------
+Progress: 8/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 3 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 9/100
+Claim Number: 500010
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100010
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500010
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdfIgnoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500010.pdf
+
+----------------------------------------
+Progress: 9/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 3 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 10/100
+Claim Number: 500011
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100011
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500011
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500011.pdf
+
+----------------------------------------
+Progress: 10/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 11/100
+Claim Number: 500012
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100012
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500012
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500012.pdf
+
+----------------------------------------
+Progress: 11/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 12/100
+Claim Number: 500013
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100013
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500013
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500013.pdf
+
+----------------------------------------
+Progress: 12/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 13/100
+Claim Number: 500014
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100014
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500014
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500014.pdf
+
+----------------------------------------
+Progress: 13/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 14/100
+Claim Number: 500015
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100015
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500015
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500015.pdf
+
+----------------------------------------
+Progress: 14/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 15/100
+Claim Number: 500016
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100016
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500016
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500016.pdf
+
+----------------------------------------
+Progress: 15/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 16/100
+Claim Number: 500017
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100017
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500017
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500017.pdf
+
+----------------------------------------
+Progress: 16/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 17/100
+Claim Number: 500018
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100018
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500018
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500018.pdf
+
+----------------------------------------
+Progress: 17/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 18/100
+Claim Number: 500019
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100019
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500019
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500019.pdf
+
+----------------------------------------
+Progress: 18/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 19/100
+Claim Number: 500020
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100020
+Found: EOB.pdfIgnoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500020
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500020.pdf
+
+----------------------------------------
+Progress: 19/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 20/100
+Claim Number: 500021
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100021
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500021
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500021.pdf
+
+----------------------------------------
+Progress: 20/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 21/100
+Claim Number: 500022
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100022
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500022
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500022.pdf
+
+----------------------------------------
+Progress: 21/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 22/100
+Claim Number: 500023
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100023
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500023
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500023.pdf
+
+----------------------------------------
+Progress: 22/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 23/100
+Claim Number: 500024
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100024
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500024
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500024.pdf
+
+----------------------------------------
+Progress: 23/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 24/100
+Claim Number: 500025
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100025
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500025
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500025.pdf
+
+----------------------------------------
+Progress: 24/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 25/100
+Claim Number: 500026
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100026
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500026
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500026.pdf
+
+----------------------------------------
+Progress: 25/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 26/100
+Claim Number: 500027
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100027
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500027
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500027.pdf
+
+----------------------------------------
+Progress: 26/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 27/100
+Claim Number: 500028
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100028
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500028
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500028.pdf
+
+----------------------------------------
+Progress: 27/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 28/100
+Claim Number: 500029
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100029
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500029
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500029.pdf
+
+----------------------------------------
+Progress: 28/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 29/100
+Claim Number: 500030
+Denial Category: Medical NecessityIgnoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100030
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500030
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500030.pdf
+
+----------------------------------------
+Progress: 29/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 30/100
+Claim Number: 500031
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100031
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500031
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500031.pdf
+
+----------------------------------------
+Progress: 30/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 31/100
+Claim Number: 500032
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100032
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500032
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500032.pdf
+
+----------------------------------------
+Progress: 31/100
+Current claim time: 0 sec
+Total elapsed time: 0 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 32/100
+Claim Number: 500033
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100033
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500033
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500033.pdf
+
+----------------------------------------
+Progress: 32/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 33/100
+Claim Number: 500034
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100034
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500034
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500034.pdf
+
+----------------------------------------
+Progress: 33/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 34/100
+Claim Number: 500035
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100035
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500035
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500035.pdf
+
+----------------------------------------
+Progress: 34/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 35/100
+Claim Number: 500036
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100036
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500036
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500036.pdf
+
+----------------------------------------
+Progress: 35/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 36/100
+Claim Number: 500037
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100037
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500037
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500037.pdf
+
+----------------------------------------
+Progress: 36/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 37/100
+Claim Number: 500038
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100038
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500038
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500038.pdf
+
+----------------------------------------
+Progress: 37/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 2 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 38/100
+Claim Number: 500039
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100039
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500039
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500039.pdf
+
+----------------------------------------
+Progress: 38/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 secIgnoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 39/100
+Claim Number: 500040
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100040
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500040
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500040.pdf
+
+----------------------------------------
+Progress: 39/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 40/100
+Claim Number: 500041
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100041
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500041
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500041.pdf
+
+----------------------------------------
+Progress: 40/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 41/100
+Claim Number: 500042
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100042
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500042
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500042.pdf
+
+----------------------------------------
+Progress: 41/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 42/100
+Claim Number: 500043
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100043
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500043
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500043.pdf
+
+----------------------------------------
+Progress: 42/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 43/100
+Claim Number: 500044
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100044
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500044
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500044.pdf
+
+----------------------------------------
+Progress: 43/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 44/100
+Claim Number: 500045
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100045
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500045
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500045.pdf
+
+----------------------------------------
+Progress: 44/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 45/100
+Claim Number: 500046
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100046
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500046
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500046.pdf
+
+----------------------------------------
+Progress: 45/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 46/100
+Claim Number: 500047
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100047
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500047
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500047.pdf
+
+----------------------------------------
+Progress: 46/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 47/100
+Claim Number: 500048
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100048
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500048
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500048.pdf
+
+----------------------------------------
+Progress: 47/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 48/100
+Claim Number: 500049
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100049
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500049
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500049.pdfIgnoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+
+
+----------------------------------------
+Progress: 48/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 49/100
+Claim Number: 500050
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100050
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500050
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500050.pdf
+
+----------------------------------------
+Progress: 49/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 50/100
+Claim Number: 500051
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100051
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500051
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500051.pdf
+
+----------------------------------------
+Progress: 50/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 51/100
+Claim Number: 500052
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100052
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500052
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500052.pdf
+
+----------------------------------------
+Progress: 51/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 52/100
+Claim Number: 500053
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100053
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500053
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500053.pdf
+
+----------------------------------------
+Progress: 52/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 53/100
+Claim Number: 500054
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100054
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500054
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500054.pdf
+
+----------------------------------------
+Progress: 53/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 54/100
+Claim Number: 500055
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100055
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500055
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500055.pdf
+
+----------------------------------------
+Progress: 54/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 55/100
+Claim Number: 500056
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100056
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500056
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500056.pdf
+
+----------------------------------------
+Progress: 55/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 56/100
+Claim Number: 500057
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100057
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500057
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500057.pdf
+
+----------------------------------------
+Progress: 56/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 57/100
+Claim Number: 500058
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100058
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500058
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500058.pdf
+
+----------------------------------------
+Progress: 57/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 58/100
+Claim Number: 500059
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100059
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500059Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500059.pdf
+
+----------------------------------------
+Progress: 58/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 59/100
+Claim Number: 500060
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100060
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500060
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500060.pdf
+
+----------------------------------------
+Progress: 59/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 60/100
+Claim Number: 500061
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100061
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500061
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500061.pdf
+
+----------------------------------------
+Progress: 60/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 61/100
+Claim Number: 500062
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100062
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500062
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500062.pdf
+
+----------------------------------------
+Progress: 61/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 62/100
+Claim Number: 500063
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100063
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500063
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500063.pdf
+
+----------------------------------------
+Progress: 62/100
+Current claim time: 0 sec
+Total elapsed time: 1 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 63/100
+Claim Number: 500064
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100064
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500064
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500064.pdf
+
+----------------------------------------
+Progress: 63/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 64/100
+Claim Number: 500065
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100065
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500065
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500065.pdf
+
+----------------------------------------
+Progress: 64/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 65/100
+Claim Number: 500066
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100066
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500066
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500066.pdf
+
+----------------------------------------
+Progress: 65/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 66/100
+Claim Number: 500067
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100067
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500067
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500067.pdf
+
+----------------------------------------
+Progress: 66/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 67/100
+Claim Number: 500068
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100068
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500068
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500068.pdf
+
+----------------------------------------
+Progress: 67/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 68/100
+Claim Number: 500069
+Denial Category: Timely Filing
+========================================Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100069
+Found: EOB.pdf
+Found: Progress_Note.pdf
+
+Attaching 2 documents for Claim 500069
+Appending: EOB.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500069.pdf
+
+----------------------------------------
+Progress: 68/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 1 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 69/100
+Claim Number: 500070
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100070
+Found: EOB.pdf
+Found: Discharge_Summary.pdf
+Found: History_and_Physical.pdf
+Found: Lab_Report.pdf
+Found: Progress_Note.pdf
+
+Attaching 5 documents for Claim 500070
+Appending: EOB.pdf
+Appending: Discharge_Summary.pdf
+Appending: History_and_Physical.pdf
+Appending: Lab_Report.pdf
+Appending: Progress_Note.pdf
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500070.pdf
+
+----------------------------------------
+Progress: 69/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 70/100
+Claim Number: 500071
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100071
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100071
+
+Attaching 0 documents for Claim 500071
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500071.pdf
+
+----------------------------------------
+Progress: 70/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 71/100
+Claim Number: 500072
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100072
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100072
+
+Attaching 0 documents for Claim 500072
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500072.pdf
+
+----------------------------------------
+Progress: 71/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 72/100
+Claim Number: 500073
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100073
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100073
+
+Attaching 0 documents for Claim 500073
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500073.pdf
+
+----------------------------------------
+Progress: 72/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 73/100
+Claim Number: 500074
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100074
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100074
+
+Attaching 0 documents for Claim 500074
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500074.pdf
+
+----------------------------------------
+Progress: 73/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 74/100
+Claim Number: 500075
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100075
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100075
+
+Attaching 0 documents for Claim 500075
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500075.pdf
+
+----------------------------------------
+Progress: 74/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 75/100
+Claim Number: 500076
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100076
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100076
+
+Attaching 0 documents for Claim 500076
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500076.pdf
+
+----------------------------------------
+Progress: 75/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 76/100
+Claim Number: 500077
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100077
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100077
+
+Attaching 0 documents for Claim 500077
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500077.pdf
+
+----------------------------------------
+Progress: 76/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 77/100
+Claim Number: 500078
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100078
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100078
+
+Attaching 0 documents for Claim 500078
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500078.pdf
+
+----------------------------------------
+Progress: 77/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 78/100
+Claim Number: 500079
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100079Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+Ignoring wrong pointing object 39 0 (offset 0)
+Ignoring wrong pointing object 332 0 (offset 0)
+
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100079
+
+Attaching 0 documents for Claim 500079
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500079.pdf
+
+----------------------------------------
+Progress: 78/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 79/100
+Claim Number: 500080
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100080
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100080
+
+Attaching 0 documents for Claim 500080
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500080.pdf
+
+----------------------------------------
+Progress: 79/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 80/100
+Claim Number: 500081
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100081
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100081
+
+Attaching 0 documents for Claim 500081
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500081.pdf
+
+----------------------------------------
+Progress: 80/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 81/100
+Claim Number: 500082
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100082
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100082
+
+Attaching 0 documents for Claim 500082
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500082.pdf
+
+----------------------------------------
+Progress: 81/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 82/100
+Claim Number: 500083
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100083
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100083
+
+Attaching 0 documents for Claim 500083
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500083.pdf
+
+----------------------------------------
+Progress: 82/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 83/100
+Claim Number: 500084
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100084
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100084
+
+Attaching 0 documents for Claim 500084
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500084.pdf
+
+----------------------------------------
+Progress: 83/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 84/100
+Claim Number: 500085
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100085
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100085
+
+Attaching 0 documents for Claim 500085
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500085.pdf
+
+----------------------------------------
+Progress: 84/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 85/100
+Claim Number: 500086
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100086
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100086
+
+Attaching 0 documents for Claim 500086
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500086.pdf
+
+----------------------------------------
+Progress: 85/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 86/100
+Claim Number: 500087
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100087
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100087
+
+Attaching 0 documents for Claim 500087
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500087.pdf
+
+----------------------------------------
+Progress: 86/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 87/100
+Claim Number: 500088
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100088
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100088
+
+Attaching 0 documents for Claim 500088
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500088.pdf
+
+----------------------------------------
+Progress: 87/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 88/100
+Claim Number: 500089
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100089
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100089Ignoring wrong pointing object 50 0 (offset 0)
+Ignoring wrong pointing object 273 0 (offset 0)
+
+
+Attaching 0 documents for Claim 500089
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500089.pdf
+
+----------------------------------------
+Progress: 88/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 89/100
+Claim Number: 500090
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100090
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100090
+
+Attaching 0 documents for Claim 500090
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500090.pdf
+
+----------------------------------------
+Progress: 89/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 90/100
+Claim Number: 500091
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100091
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100091
+
+Attaching 0 documents for Claim 500091
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500091.pdf
+
+----------------------------------------
+Progress: 90/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 91/100
+Claim Number: 500092
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100092
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100092
+
+Attaching 0 documents for Claim 500092
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500092.pdf
+
+----------------------------------------
+Progress: 91/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 92/100
+Claim Number: 500093
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100093
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100093
+
+Attaching 0 documents for Claim 500093
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500093.pdf
+
+----------------------------------------
+Progress: 92/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 93/100
+Claim Number: 500094
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100094
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100094
+
+Attaching 0 documents for Claim 500094
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500094.pdf
+
+----------------------------------------
+Progress: 93/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 94/100
+Claim Number: 500095
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100095
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100095
+
+Attaching 0 documents for Claim 500095
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500095.pdf
+
+----------------------------------------
+Progress: 94/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 95/100
+Claim Number: 500096
+Denial Category: Medical Necessity
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100096
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100096
+
+Attaching 0 documents for Claim 500096
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500096.pdf
+
+----------------------------------------
+Progress: 95/100
+Current claim time: 0 sec
+Total elapsed time: 2 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 96/100
+Claim Number: 500097
+Denial Category: Duplicate
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100097
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100097
+
+Attaching 0 documents for Claim 500097
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500097.pdf
+
+----------------------------------------
+Progress: 96/100
+Current claim time: 0 sec
+Total elapsed time: 3 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 97/100
+Claim Number: 500098
+Denial Category: Missing Info
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100098
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100098
+
+Attaching 0 documents for Claim 500098
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500098.pdf
+
+----------------------------------------
+Progress: 97/100
+Current claim time: 0 sec
+Total elapsed time: 3 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating UHC PDF 98/100
+Claim Number: 500099
+Denial Category: Timely Filing
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100099
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100099
+
+Attaching 0 documents for Claim 500099
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/UHC/500099.pdf
+
+----------------------------------------
+Progress: 98/100
+Current claim time: 0 sec
+Total elapsed time: 3 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating BCBS PDF 99/100
+Claim Number: 500100
+Denial Category: Authorization
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100100
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100100
+
+Attaching 0 documents for Claim 500100
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/BCBS/500100.pdf
+
+----------------------------------------
+Progress: 99/100
+Current claim time: 0 sec
+Total elapsed time: 3 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+Generating Aetna PDF 100/100
+Claim Number: 500101
+Denial Category: Bundling
+========================================
+
+Document Folder: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100101
+WARNING: Document folder does not exist: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/documents/MRN/Claim100101
+
+Attaching 0 documents for Claim 500101
+
+Created: /Users/tejasbachhao/Appeal Automation/Python Appeal/Healthcare_Appeal_Automation/output/Appeals/Aetna/500101.pdf
+
+----------------------------------------
+Progress: 100/100
+Current claim time: 0 sec
+Total elapsed time: 3 sec
+Average time per claim: 0 sec
+Estimated remaining time: 0 sec
+----------------------------------------
+
+
+========================================
+ALL APPEAL PDFs CREATED SUCCESSFULLY
+========================================
+Completed appeals: 100/100
+Total processing time: 3 sec
+Average time per appeal: 0 sec
+========================================
